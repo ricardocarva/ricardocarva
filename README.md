@@ -20,7 +20,7 @@ You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20C
    
 ### Insights about Github Profile
 
-![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocarva&show_icons=true&include_all_commits=true&rank_icon=github&border_color=2e4058&theme=midnight-purple)       ![Ricardo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&layout=compact&langs_count=10)
+![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocarva&show_icons=true&include_all_commits=true&rank_icon=github&border_color=2e4058&theme=shadow_green)       ![Ricardo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=shadow_green&layout=compact&langs_count=10)
 
 
 <!---
