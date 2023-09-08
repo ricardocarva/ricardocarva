@@ -19,7 +19,7 @@ You can reach me at ricardofecarva@gmail.com
    
 ### Insights about Github Profile
 
-![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocarva&show_icons=true&theme=radical)       ![Ricardo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&layout=compact)
+![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocarva&show_icons=true&theme=midnight-purple)       ![Ricardo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&layout=compact)
 
 
 <!---
