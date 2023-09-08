@@ -13,7 +13,8 @@
 
 💞️ Passionate about software development, engineering, DIY projects, FPV Drone Racing, and VR Gaming.
 
-You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-ricardo-carvalheira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-carvalheira/)] [![Gmail Badge](https://img.shields.io/badge/-ricardofecarva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardofecarva@gmail.com)](mailto:ricardofecarva@gmail.com)
+You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-ricardo-carvalheira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-carvalheira/)](https://www.linkedin.com/in/ricardo-carvalheira/)
+[ ![Linkedin Badge]()] [![Gmail Badge](https://img.shields.io/badge/-ricardofecarva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricardofecarva@gmail.com)](mailto:ricardofecarva@gmail.com)
 
 ---   
    
