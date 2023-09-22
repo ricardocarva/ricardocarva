@@ -25,7 +25,6 @@ You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20C
 <!-- ### Views -->
 
 ![Ricardo's github stats](https://profile-counter.glitch.me/ricardocarva/count.svg)
-<a href=""> <img src="https://profile-counter.glitch.me/ricardocarva/count.svg" alt="ricardocarva"/></a>
 <!---
 ricardocarva/ricardocarva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
