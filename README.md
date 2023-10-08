@@ -7,7 +7,7 @@
 
 🔭 I am an undergraduate student at the University of Florida majoring in Computer Science with expected graduation in Dec 2024
 
-👨‍💻 My interests include Web Development, Software development, and DevOps.
+👨‍💻 My interests include Software development and DevOps.
 
 🐍 Knowledgeable in programming languages like Python, C# and familiar with C++, C, HTML/HTML5, CSS, JavaScript, Git, and Linux. 
 
