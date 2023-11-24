@@ -5,7 +5,7 @@
 👋 Hi, I’m Ricardo Carvalheira.
 
 
-🔭 I am an undergraduate student at the University of Florida majoring in Computer Science with expected graduation in Dec 2024
+🔭 I am an undergraduate student at the University of Florida majoring in Computer Science with expected graduation in Dec 2024.
 
 👨‍💻 My interests include Software development and DevOps.
 
