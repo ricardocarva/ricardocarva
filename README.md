@@ -5,7 +5,7 @@
 👋 Hi, I’m Ricardo Carvalheira.
 
 
-🔭 I am an undergraduate student at the University of Florida majoring in Computer Science with expected graduation in Dec 2024
+🔭 I am an undergraduate student at the University of Florida majoring in Computer Science with expected graduation in Dec 2024.
 
 👨‍💻 My interests include Web Development, Software development, and DevOps.
 
@@ -20,8 +20,26 @@ You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20C
    
 ### Insights about Github Profile
 
-![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocarva&show_icons=true&theme=midnight-purple&rank_icon=github)       ![Ricardo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&layout=compact&langs_count=10)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ricardocarva&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardocarva&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=ricardocarva&theme=onestar&no-frame=true&column=3&row=2" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10" />
+    </td>
+  </tr>
+</table>
 
+#### Profile Views
 <!-- ### Views -->
 <a href=""> <img src="https://profile-counter.glitch.me/ricardocarva/count.svg" alt="ricardocarva"/></a>
 
