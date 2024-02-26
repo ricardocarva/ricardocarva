@@ -20,8 +20,27 @@ You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20C
    
 ### Insights about Github Profile
 
-![Ricardo's github stats](https://github-readme-stats.vercel.app/api?username=ricardocarva&show_icons=true&theme=midnight-purple&rank_icon=github)       ![Ricardo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&layout=compact&langs_count=10)
+<table border="0" style="border:none;">
+  <tr>
+    <td style="border:none;">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ricardocarva&theme=midnight-purple&show_icons=true&hide_border=true"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ricardocarva&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&hide=CSS,HTML,Handlebars&exclude_repo=LeagueStarter,CAP4770-Credit-Card-Fraud-Detection&card_width=500" />
+    </td>
+    <td style="border:none;">
+      <img src="https://github-profile-trophy.vercel.app/?username=ricardocarva&theme=onestar&no-frame=true&column=3&row=2" />
+    </td>
+  </tr>
+</table>
 
+
+#### Profile Views
 <!-- ### Views -->
 
 ![Ricardo's github stats](https://profile-counter.glitch.me/ricardocarva/count.svg)
