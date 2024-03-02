@@ -31,7 +31,7 @@ You can reach me at [![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20C
   </tr>
   <tr>
     <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&hide=CSS,HTML,Handlebars&exclude_repo=LeagueStarter,CAP4770-Credit-Card-Fraud-Detection&card_width=500" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardocarva&theme=midnight-purple&hide_border=true&layout=compact&langs_count=10&hide=Handlebars&exclude_repo=LeagueStarter,CAP4770-Credit-Card-Fraud-Detection,Algorithms-And-Data-Structures,betaflight.3.5.6,betaflight.com,learning-area,computer-science,devops-exercises,simple-java-maven-app,flex-cheatsheet&card_width=500" />
     </td>
     <td style="border:none;">
       <img src="https://github-profile-trophy.vercel.app/?username=ricardocarva&theme=onestar&no-frame=true&column=3&row=2" />
